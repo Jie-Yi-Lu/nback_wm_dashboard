@@ -108,7 +108,7 @@ else:
 # TODO 3.a: 用 st.columns(3) 拿到 c1, c2, c3
 # TODO 3.b: c1.metric("Rows", ...) etc.
 
-st.write("**TODO 3:** 在這裡加入 3 個 metric (st.columns(3) + 3 個 .metric)")
+# st.write("**TODO 3:** 在這裡加入 3 個 metric (st.columns(3) + 3 個 .metric)")
 c1, c2, c3 = st.columns(3)
 
 with c1:
